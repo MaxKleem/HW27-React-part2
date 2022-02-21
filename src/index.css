@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(170, 235, 181);
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.navbar {
+  justify-content: space-evenly;
+}
+
+div .App {
+  padding-left: 5%;
+  padding-right: 5%;
+}
